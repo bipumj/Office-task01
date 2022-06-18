@@ -21,7 +21,7 @@ const Home = () => {
                                 <p style={{ color: "#6F7287" }} className='mt-2 px-5'>
                                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima neque, consequatur quod aliquid, asperiores sint dolor magni voluptates, veritatis vel quo ab dignissimos autem perspiciatis placeat molestias? Esse modi ea numquam animi maxime obcaecati perferendis nemo, ullam nam, illum suscipit saepe quod, facilis laudantium explicabo quam rerum odio ut nobis?
                                 </p>
-                                <div className='d-flex mt-3 text-center'>
+                                <div className='d-flex mt-3 align-center'>
                                     <FaFacebookF className='facebook-icon me-5' />
                                     <FaApple className='apple-icon' />
                                 </div>
